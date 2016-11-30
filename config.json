@@ -1,0 +1,27 @@
+{
+  "repos": [
+    {"path":"github.com/tendermint/tendermint"},
+    {"path":"github.com/tendermint/go-process"},
+    {"path":"github.com/tendermint/go-common"},
+    {"path":"github.com/tendermint/go-config"},
+    {"path":"github.com/tendermint/go-db"},
+    {"path":"github.com/tendermint/go-merkle"},
+    {"path":"github.com/tendermint/go-wire"},
+    {"path":"github.com/tendermint/go-autofile"},
+    {"path":"github.com/tendermint/go-p2p"},
+    {"path":"github.com/tendermint/go-flowrate"},
+    {"path":"github.com/tendermint/go-crypto"},
+    {"path":"github.com/tendermint/go-events"},
+    {"path":"github.com/tendermint/go-logger"},
+    {"path":"github.com/tendermint/go-rpc"},
+    {"path":"github.com/tendermint/go-clist"},
+    {"path":"github.com/tendermint/merkleeyes"},
+    {"path":"github.com/tendermint/basecoin"},
+    {"path":"github.com/tendermint/ed25519"},
+    {"path":"github.com/tendermint/mintkey"},
+    {"path":"github.com/tendermint/tmsp"},
+    {"path":"github.com/tendermint/devtool"},
+    {"path":"github.com/tendermint/ethermint"},
+    {"path":"github.com/tendermint/log15"}
+  ]
+}
